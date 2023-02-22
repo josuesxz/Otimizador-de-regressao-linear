@@ -1,0 +1,2 @@
+- Plotar gráficos
+- Funcao para mudar os dados
